@@ -98,7 +98,91 @@
     "iso": "C"
 }
   ],
-  "departamentos": [
+"departamentos": [
+{
+    "id": "1",
+    "nombre": "Anta",    
+    "provincia_id": "1"
+}, {
+    "id": "2",
+    "nombre": "Cachi",
+    "provincia_id": "1"
+}, {
+    "id": "3",
+    "nombre": "Cafayate",
+    "provincia_id": "1"
+}, {
+    "id": "4",
+    "nombre": "La Caldera",
+    "provincia_id": "1"
+}, {
+    "id": "5",
+    "nombre": "La Candelaria",
+    "provincia_id": "1"
+}, {
+    "id": "6",
+    "nombre": "Capital",
+    "provincia_id": "1"
+}, {
+    "id": "7",
+    "nombre": "Cerrillos",
+    "provincia_id": "1"
+}, {
+    "id": "8",
+    "nombre": "Chicoana",
+    "provincia_id": "1"
+}, {
+    "id": "9",
+    "nombre": "Guachipas",
+    "provincia_id": "1"
+}, {
+    "id": "10",
+    "nombre": "Metan",
+    "provincia_id": "1"
+}, {
+    "id": "11",
+    "nombre": "Oran",
+    "provincia_id": "1"
+}, {
+    "id": "12",
+    "nombre": "Los Andes",
+    "provincia_id": "1"
+}, {
+    "id": "13",
+    "nombre": "Rosario de la Frontera",
+    "provincia_id": "1"
+}, {
+    "id": "14",
+    "nombre": "Rosario de Lerma",
+    "provincia_id": "1"
+}, {
+    "id": "15",
+    "nombre": "Adolfo Alsina",
+    "provincia_id": "2"
+}, {
+    "id": "16",
+    "nombre": "Alberti",
+    "provincia_id": "2"
+}, {
+    "id": "17",
+    "nombre": "Almirante Brown",
+    "provincia_id": "2"
+}, {
+    "id": "18",
+    "nombre": "Avellaneda",
+    "provincia_id": "2"
+}, {
+    "id": "19",
+    "nombre": "Ayacucho",
+    "provincia_id": "2"
+}, {
+    "id": "20",
+    "nombre": "Azul",
+    "provincia_id": "2"
+}
+  ]
+,
+  "departamentos-coord": [
 {
     "id": "1",
     "nombre": "Anta",
